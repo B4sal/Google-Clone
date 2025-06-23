@@ -16,5 +16,5 @@ Clone of Google.com.
 ## Installation
 
 ```bash
-git clone https://github.com/tuusuario/google-clone.git
+git clone https://github.com/b4sal/google-clone.git
 cd google-clone
